@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/yourusername/my-go-webapp/internal/handlers"
+	"github.com/hcab/golang/internal/handlers"
 )
 
 func main() {
