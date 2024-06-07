@@ -1,3 +1,3 @@
-module github.com/hcab/go-webapp
+module github.com/hcab/golang
 
 go 1.22.4
